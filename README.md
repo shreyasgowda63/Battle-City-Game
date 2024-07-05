@@ -1,4 +1,3 @@
-# first-repo
-this is my first repository and i am exited to to learn
-<br>
-i want to be explore 
+# Battle City Game
+This is repo consist of all the python file needed to run the game
+
